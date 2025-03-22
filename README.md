@@ -48,8 +48,10 @@ coffee_machine_project/
 ---
 
 ### Kuidas kasutada:
-- **Python projekti** puhul saate lihtsalt kopeerida esimese näidise ja paigutada selle `README.md` failiks oma Python projekti kausta.
-- **Java projekti** puhul saate kasutada teist näidist ning paigutada selle Java projekti kausta.
+- **Python projekti**
+- **Java projekti**
 
-Mõlemad failid sisaldavad kogu vajalikku teavet projekti kasutamise, käivitamise ja testimise kohta.
+
+```markdown
+
 
