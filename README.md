@@ -17,7 +17,7 @@ coffee_machine_project/
 
 
 
----
+```
 # Coffee Machine Project (Java)
 
 
@@ -44,7 +44,7 @@ coffee_machine_project/
 │   └── IngredientManagerTest.java # Unit testid koostisosade halduri jaoks
 
 
-
+```
 ---
 
 ### Kuidas kasutada:
