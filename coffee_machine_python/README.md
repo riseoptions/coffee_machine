@@ -4,7 +4,7 @@ See projekt simuleerib kohvimasinat, mis suudab valmistada erinevaid kohvijooke 
 
 ## Projekti Ülesehitus
 
-Allpool on näidatud kaustade ja failide struktuur mõlema projekti jaoks.
+
 
 ### 1. Python Projekt
 
