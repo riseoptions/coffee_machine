@@ -18,11 +18,11 @@ coffee_machine_project/
 
 
 ---
-
+# Coffee Machine Project (Java)
 
 
 ```markdown
-# Coffee Machine Project (Java)
+
 
 See Java projekt simuleerib kohvimasinat, mis suudab valmistada erinevaid jooke nagu espresso ja latte, haldades koostisosi ja võimaldades kasutajal täita kohvimasina varusid.
 
