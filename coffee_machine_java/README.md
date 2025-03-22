@@ -4,7 +4,7 @@ See projekt simuleerib kohvimasinat, mis suudab valmistada erinevaid kohvijooke 
 
 ## Projekti Ülesehitus
 
-
+```plaintext
 coffee_machine_project/
 │
 ├── src/
