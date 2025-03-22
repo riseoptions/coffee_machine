@@ -19,7 +19,7 @@ coffee_machine_project/
 
 ---
 
-### **`README.md` Java projekti jaoks**
+
 
 ```markdown
 # Coffee Machine Project (Java)
