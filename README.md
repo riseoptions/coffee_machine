@@ -52,8 +52,7 @@ coffee_machine_project/
 - **Java projekti**
 
 
-```markdown
-Siin on täielik **`README.md`** fail, mis sisaldab **mõlema** projekti (Python ja Java) kasutamis- ja käivitamisinfot ühes kohas. Saate selle faili otse kopeerida ja paigutada oma GitHubi hoidlasse.
+
 
 ```markdown
 # Coffee Machine Project
