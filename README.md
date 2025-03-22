@@ -58,7 +58,7 @@ coffee_machine_project/
 # Coffee Machine Project
 
 See projekt simuleerib kohvimasinat, mis suudab valmistada erinevaid kohvijooke nagu espresso ja latte, haldades koostisosi ja võimaldades kasutajal täiendada kohvimasina varusid. Projekt on loodud kahes programmeerimiskeeles: **Python** ja **Java**. 
-
+```
 ## Projekti Struktuur
 
 ### Python Projekt
